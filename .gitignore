@@ -1,0 +1,10 @@
+*.tmp
+*.png
+*.jpg
+*.vti
+*.mat
+core*
+bioRxiv281717
+output
+mazzoni_example
+vti
